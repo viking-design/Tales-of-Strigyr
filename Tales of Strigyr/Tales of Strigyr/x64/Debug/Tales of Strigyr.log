@@ -1,0 +1,12 @@
+﻿  Character.cpp
+  Item.cpp
+  Location.cpp
+  Npc.cpp
+  Player.cpp
+  Settlement.cpp
+  Source.cpp
+C:\Users\TheFr\Documents\Programming Projects\Tales of Strigyr\Tales of Strigyr\Source.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Trader.cpp
+  Weapon.cpp
+  Generating Code...
+  Tales of Strigyr.vcxproj -> C:\Users\TheFr\Documents\Programming Projects\Tales of Strigyr\x64\Debug\Tales of Strigyr.exe
